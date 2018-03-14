@@ -4,7 +4,7 @@
   <groupId>nz.co.zerosandones</groupId>
   <artifactId>log4j-rollbar</artifactId>
   <packaging>jar</packaging>
-  <version>0.1-SNAPSHOT</version>
+  <version>0.1</version>
   <name>log4j-rollbar</name>
 
   <properties>
@@ -14,7 +14,6 @@
   </properties>
  
   <dependencies>
-    <!-- https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api -->
     <dependency>
         <groupId>org.apache.logging.log4j</groupId>
         <artifactId>log4j-core</artifactId>
