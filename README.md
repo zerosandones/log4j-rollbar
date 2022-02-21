@@ -1,5 +1,7 @@
 # Log4j-Rollbar
 
+** Since rollbar now provides this functionality in [rollbar-log4j2](https://docs.rollbar.com/docs/log4j2), I am going to archive this. I am leaving this here in case in the future I want to do something similar.**
+
 Library to allow logging to the [Rollbar Service](https://rollbar.com/) from Log4j 2.
 
 The project uses an appender to send the logging details to the Rollbar service. The appender can be configured by the standard log4j config files.
